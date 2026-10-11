@@ -1,0 +1,16 @@
+=== LAPORAN DAFTAR FILM ===
+Jumlah film      : 5
+Rata-rata rating: 8.82
+
+Jumlah per genre:
+  - Fantasy: 2 film
+  - Animasi: 1 film
+  - Romance: 1 film
+  - Horror: 1 film
+
+Peringkat film:
+  1. Arriety (2010) - rating 9.0
+  2. Coco (2017) - rating 9.0
+  3. Avatar (2009) - rating 8.9
+  4. Titanic (1997) - rating 8.7
+  5. The sixth sense (1999) - rating 8.5

@@ -1,0 +1,6 @@
+judul,genre,tahun,rating
+Arriety,Fantasy,2010,9.0
+Avatar,Fantasy,2009,8.9
+Coco,Animasi,2017,9.0
+Titanic,Romance,1997,8.7
+The sixth sense,Horror,1999,8.5
